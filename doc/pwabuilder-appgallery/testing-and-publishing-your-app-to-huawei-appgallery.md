@@ -1,10 +1,10 @@
-#Testing and publishing your Android PWA to Huawei AppGallery
+# Testing and publishing your Android PWA to Huawei AppGallery
 
 Last updated on 2/1/2022
  
 ![](images/bg-vecteezy_smartphone-and-web-application-testing-team_.jpg)
 
-First, to generate your AppGallery package with [PWABuilder](https://www.pwabuilder.com/)
+First, to generate your AppGallery package with [PWABuilder](https://www.pwabuilder.com/).
 
 Your next steps:
 
@@ -35,7 +35,7 @@ Important:
 
 	Your zip file contains both `.aab` (Android App Bundle) and `.apk` files which can be submitted directly to AppGallery through the [AppGallery Connect Console](https://developer.huawei.com/consumer/en/doc/distribution/app/agc-help-configure-appinfo-0000001100086630).
 
- ![](images/aab-apk.jpg)
+	![](images/aab-apk.jpg)
  
 	Once you submit your app, it will be reviewed. Once approved, your PWA app will be available in the Huawei AppGallery.
 
@@ -108,5 +108,5 @@ If the browser address bar is showing up in your app, see PWABuilder GitHub [ass
 
 
 
-The information on this page is sourced from [PWABuilder.com blog](https://blog.pwabuilder.com/docs/testing-and-publishing-your-android-pwa-to-the-google-play-store).
+*The information on this page is sourced from [PWABuilder.com blog](https://blog.pwabuilder.com/docs/testing-and-publishing-your-android-pwa-to-the-google-play-store).*
 
