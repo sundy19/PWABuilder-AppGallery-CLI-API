@@ -88,7 +88,7 @@ TWA is a great way for developers that have an existing website, to gain entry t
 
 ![](images/responsive-layout.jpg)
 
-#### ✅ Yes, should consider.
+#### 👍 Yes, should consider.
 
 * Mobile-friendly, responsive web layout.
 * Developers have limited or no resources to develop and maintain a native Android app.
@@ -96,7 +96,7 @@ TWA is a great way for developers that have an existing website, to gain entry t
 * Developers are okay with making some minor changes, fixes to the website like detecting TWA and hiding Google Play Store links.
 * Developers do not require native Android capabilities like in-app purchases, accurate location, Android API, etc.
 
-#### ❎ No, should not consider it.
+#### ❌ No, should not consider it.
 * Developers don’t have a mobile-friendly, responsive layout website.
 * Developers must use advanced native Android API within the app.
 * Developers do not have enough resources or no motivation to continue website development and support.
